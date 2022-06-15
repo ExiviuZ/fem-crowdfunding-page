@@ -11,22 +11,21 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Gradient: hsl(6, 100%, 80%) to hsl(335, 100%, 65%)
+- Moderate cyan: hsl(176, 50%, 47%)
+- Dark cyan: hsl(176, 72%, 28%)
 
 ### Neutral
 
-- Pale Blue: hsl(243, 100%, 93%)
-- Grayish Blue: hsl(229, 7%, 55%)
-- Dark Blue: hsl(228, 56%, 26%)
-- Very Dark Blue: hsl(229, 57%, 11%)
+- Black: hsl(0, 0%, 0%)
+- Dark gray: hsl(0, 0%, 48%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 14px
+- Font size: 16px
 
 ### Font
 
-- Family: [Raleway](https://fonts.google.com/specimen/Raleway)
-- Weights: 400, 700
+- Family: [Commissioner](https://fonts.google.com/specimen/Commissioner)
+- Weights: 400, 500, 700
